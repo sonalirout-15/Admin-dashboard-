@@ -99,6 +99,7 @@ const GeneralDashboard = () =>  {
                 </div>
                 <div className="card-wrap">
                   <div className="card-header">
+                    
                     <h4>Total User</h4>
                   </div>
                   <div className="card-body">47</div>
